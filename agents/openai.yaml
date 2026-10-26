@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI 基础设计规范"
+  short_description: "统一界面文案、配色、字号、对齐与交互层级，让页面更清晰克制"
+  default_prompt: "使用 $ui-design-basics 优化当前页面的基础 UI，保留业务功能，统一视觉规范，并说明改动及需要我执行的验证命令。"

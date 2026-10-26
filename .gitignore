@@ -1,0 +1,15 @@
+# Local agent installations and other skill repositories
+.agents/
+.codex/
+.claude/
+skills/
+git-commit/
+git-push/
+
+# Local files and credentials
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
